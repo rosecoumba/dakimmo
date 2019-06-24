@@ -1,0 +1,2 @@
+2019-06-24T15:29:48+00:00 CRITICAL require(): Failed opening required '/var/www/html/dakimmo/wp-content/themes/Divi-3.9/Divi/classes/class-twentynineteen-svg-icons.php' (include_path='.:/usr/share/php') dans /var/www/html/dakimmo/wp-content/themes/twentynineteen/functions.php à la ligne 298
+
